@@ -1,5 +1,6 @@
 # Launching an AWS EC2 instance using Command Line Interface(CLI)
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
 Let us have a look into the process of launching an AWS EC2 instance that is through AWS CLI and hosting a sample website in it.   
   
