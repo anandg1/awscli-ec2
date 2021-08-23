@@ -144,11 +144,11 @@ http://PUBLIC_DNS
 # Extras:
 
 
-> We can stop the EC2 from CLI using the following command:
+> We can stop the EC2 from CLI using the following command
 ```sh
 aws ec2 stop-instances --instance-ids <instance_id...>
 ```
-> > We can even terminate the EC2 from CLI using the following command:
+> > We can even terminate the EC2 from CLI using the following command
 ```sh
 aws ec2 terminate-instances --instance-ids <instance_id...>
 ````
