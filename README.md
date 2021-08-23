@@ -11,7 +11,7 @@ Creating an instance with AWS CLI is the same as launching one with AWS console.
 
 ## Pre-requisite: 
 
-Before starting to use the CLI, please remember to [configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html#cli-quick-configuration) AWS CLI access.
+Before starting to use the CLI, please remember to [configure](https://github.com/anandg1/aws-cli-configuration) AWS CLI access.
 
 
 # Steps:
